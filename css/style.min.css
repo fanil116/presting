@@ -2499,6 +2499,9 @@ h6 {
   .section-block__item_height:hover {
     height: 120px;
   }
+  .section-block__item:hover .about-age {
+    margin-top:25px;
+  }
   .section-block__item_height:hover .about-age {
     margin-top:50px;
   }
